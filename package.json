@@ -1,0 +1,23 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@markusjx/java": "^2.0.1",
+    "aspose.slides.via.java": "^24.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "java": "^0.14.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.0"
+  }
+}
